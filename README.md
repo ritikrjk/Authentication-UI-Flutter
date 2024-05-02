@@ -1,6 +1,7 @@
-# login_user_interface
+# Authentication_user_interface
 
-A new Flutter project.
+Login and Register User Screen![combined](https://github.com/ritikrjk/Authentication-UI-Flutter/assets/89067405/aae29d9f-15bb-45a8-9bc9-0628e83ab123)
+
 
 ## Getting Started
 
